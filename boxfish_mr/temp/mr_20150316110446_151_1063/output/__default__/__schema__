@@ -1,0 +1,4 @@
+project=example_project
+table=class_course_statis_mr
+columns=class_id:STRING,course_id:STRING
+partitions=date_time:STRING

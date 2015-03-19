@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/XLib-inner-0.13.1-20150106.094219-6.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/xlab-jython-2.7-b1-20150104.042442-2.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-udf-local-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-sdk-udf-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-sdk-mapred-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-sdk-lot-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-sdk-graph-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-sdk-core-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-sdk-commons-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-mapred-local-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-mapred-bridge-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-graph-local-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-graph-example-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/odps-cli-0.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/json-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/jline-2.12-odps.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/javacsv-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/soft/aliyun/odps/odps/lib/bouncycastle.provider-1.38-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="src" output="example.bin" path="examples"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

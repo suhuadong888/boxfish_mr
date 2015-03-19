@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
+<property><name>odps.mapred.reduce.class</name><value>com.boxfish.ClassCourseReducer</value></property>
+<property><name>odps.mapred.local.record.download.limit</name><value>100</value></property>
+<property><name>odps.mapred.map.class</name><value>com.boxfish.ClassCourseMapper</value></property>
+<property><name>odps.mapred.output.desc</name><value>[{"tblName":"class_course_statis_mr","partSpec":{"date_time":"2015-03-15"},"label":"__default__"}]</value></property>
+<property><name>odps.mapred.resources</name><value/></property>
+<property><name>odps.mapred.combine.class</name><value>com.boxfish.ClassCourseCombiner</value></property>
+<property><name>odps.mapred.mapoutput.key.schema</name><value>class_id:STRING</value></property>
+<property><name>odps.mapred.job.name</name><value>mr_20150316110356_808_1061</value></property>
+<property><name>odps.mapred.mapoutput.value.schema</name><value>course_id:STRING</value></property>
+<property><name>odps.mapred.local.temp.retain</name><value>false</value></property>
+<property><name>odps.mapred.input.desc</name><value>[{"tblName":"course_learn_event","partSpec":{"date_time":"2015-03-15"},"label":"__default__"}]</value></property>
+</configuration>
